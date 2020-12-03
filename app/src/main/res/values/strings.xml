@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex102</string>
+    <string name="this_app_was_created_by">This app was created by</string>
+    <string name="shahar_yani">Shahar Yani</string>
+    <string name="challenge">challenge</string>
+    <string name="credits">Credits</string>
+    <string name="main">Main</string>
+    <string name="radio_group">radio group</string>
+    <string name="multi_choice">multi choice</string>
+    <string name="reset">reset</string>
+    <string name="toast_message">Toast message</string>
+</resources>
