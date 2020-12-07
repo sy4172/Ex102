@@ -20,7 +20,7 @@ import java.util.Arrays;
 
 /**
  *  * @author		Shahar Yani
- *  * @version  	1.0
+ *  * @version  	1.1
  *  * @since		26/11/2020
  *
  *  * This MainActivity.class displays 5 different types of configured dialog view object
@@ -170,6 +170,7 @@ public class MainActivity extends AppCompatActivity implements DialogInterface.O
      * @param view the view
      */
     public void twoEditTextWithToast(View view) {
+        // Making a layout to display on the AlertDialog
         LinearLayout AdScreen = new LinearLayout(this);
         AdScreen.setOrientation(LinearLayout.VERTICAL);
         AlertDialog.Builder adb = new AlertDialog.Builder(this);
