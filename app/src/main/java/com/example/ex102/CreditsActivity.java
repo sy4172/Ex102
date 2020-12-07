@@ -10,6 +10,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+/**
+ *  * @author		Shahar Yani
+ *  * @version  	1.0
+ *  * @since		26/11/2020
+ *
+ *    This Credits.class displays a credit activity
+ *    and a menu to return to MainActivity.class
+ *  */
 public class CreditsActivity extends AppCompatActivity {
 
     @Override
